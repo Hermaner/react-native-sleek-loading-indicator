@@ -18,7 +18,7 @@ const SleekLoadingIndicator = React.createClass({
 
   getDefaultProps() {
     return {
-      text: 'Loading...',
+      text: '加载中...',
       loading: true
     }
   },

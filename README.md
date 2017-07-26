@@ -14,12 +14,12 @@ In action on __Android__
 ### Usage
 Install the package
 ```
-npm install react-native-sleek-loading-indicator --save
+npm install react-native-sleek-loading-indicator-hm --save
 ```
 
 ```javascript
 
-const SleekLoadingIndicator = require('react-native-sleek-loading-indicator');
+const SleekLoadingIndicator = require('react-native-sleek-loading-indicator-hm');
 
 const MyView = React.createClass({
    render() {

@@ -26,10 +26,9 @@ module.exports = StyleSheet.create({
    },
 
    loadingText: {
-     fontWeight: 'bold',
      color: '#fff',
      textAlign: 'center',
-     fontSize: 22,
+     fontSize: 18,
    },
 
    spinnerContainer: {
